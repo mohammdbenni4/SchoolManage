@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AL-FARABI\\Desktop\\projects C#\\SchoolManage\\SchoolManage\\wwwroot\\Images\\5f484b58-0798-4593-b5c7-67b752091343_photo_٢٠٢٢-١٢-٢٥_١٢-٢٧-١٨.jpg",
+      "PackagePath": "staticwebassets\\Images\\5f484b58-0798-4593-b5c7-67b752091343_photo_٢٠٢٢-١٢-٢٥_١٢-٢٧-١٨.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SchoolManage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SchoolManage.props",
+      "PackagePath": "build\\SchoolManage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolManage.props",
+      "PackagePath": "buildMultiTargeting\\SchoolManage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SchoolManage.props",
+      "PackagePath": "buildTransitive\\SchoolManage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

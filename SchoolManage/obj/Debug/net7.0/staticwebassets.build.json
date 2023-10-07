@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mOK7cb24dVOFSmOK2Q7z4RS6XNeTjGvpqvUDf1IDRVk=",
+  "Source": "SchoolManage",
+  "BasePath": "_content/SchoolManage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolManage\\wwwroot",
+      "Source": "SchoolManage",
+      "ContentRoot": "C:\\Users\\AL-FARABI\\Desktop\\projects C#\\SchoolManage\\SchoolManage\\wwwroot\\",
+      "BasePath": "_content/SchoolManage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AL-FARABI\\Desktop\\projects C#\\SchoolManage\\SchoolManage\\wwwroot\\Images\\5f484b58-0798-4593-b5c7-67b752091343_photo_٢٠٢٢-١٢-٢٥_١٢-٢٧-١٨.jpg",
+      "SourceId": "SchoolManage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AL-FARABI\\Desktop\\projects C#\\SchoolManage\\SchoolManage\\wwwroot\\",
+      "BasePath": "_content/SchoolManage",
+      "RelativePath": "Images/5f484b58-0798-4593-b5c7-67b752091343_photo_٢٠٢٢-١٢-٢٥_١٢-٢٧-١٨.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5f484b58-0798-4593-b5c7-67b752091343_photo_٢٠٢٢-١٢-٢٥_١٢-٢٧-١٨.jpg"
+    }
+  ]
+}
